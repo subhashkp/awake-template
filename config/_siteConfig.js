@@ -10,7 +10,7 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'SubhashKumar.net',
-  tagline: 'I would rather have questions that can''t be answered than answers that can''t be questioned.',
+  tagline: 'Simply Simple look into life - My musings about nothing in particular',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
